@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-ds" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat-ds" alt="rajat-ds" /></a> </p>
-
 - 🌱 I’m currently learning **react ,css and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajat-ds](https://github.com/rajat-ds)
