@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **react ,css and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajat-ds](https://github.com/rajat-ds)
-
-- 📝 I regularly write articles on [https://medium.com/@__rajatkashyap](https://medium.com/@__rajatkashyap)
-
 - 💬 Ask me about **react,JavaScript,css and Angular**
 
 - 📫 How to reach me **rajat.technocrat01@gmail.com**
