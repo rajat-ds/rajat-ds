@@ -30,20 +30,20 @@
 ## Github Stats
 <details>
 <summary>📊 Github Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejaswini22199&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajat-ds&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini22199&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-ds&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaswini22199&theme=vision-friendly-dark)](https://github.com/tejaswini22199)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajat-ds&theme=vision-friendly-dark)](https://github.com/rajat-ds)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=tejaswini22199&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/tejaswini22199)
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=rajat-ds&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/rajat-ds)
 
 </div>
 </details>
