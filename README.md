@@ -24,7 +24,7 @@
 
 ## Github Stats
 <details>
-<summary>📊 Github Stats</summary>
+<summary>📊 Github Stats </summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajat-ds&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-ds&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
