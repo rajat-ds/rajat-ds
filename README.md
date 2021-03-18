@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajat Kashyap</h1>
+<h1 align="center">Hi 👋, I am Rajat Kashyap</h1>
 <h3 align="center">A passionate JavaScript developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-ds" /> </p>
