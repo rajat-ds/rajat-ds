@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react ,css and JavaScript**
 
-- 💬 Ask me about **react,JavaScript,css and Angular**
+- 💬 Ask me about **react,redux,JavaScript,css and Angular**
 
 - 📫 How to reach me **rajat.technocrat01@gmail.com**
 
